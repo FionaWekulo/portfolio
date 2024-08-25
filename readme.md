@@ -78,7 +78,7 @@ I'm a recent Computer Science graduate from the University of Nairobi, passionat
 
 ## Contact
 - Email: fionawekulo@gmail.com
-- LinkedIn: [\[Your LinkedIn Profile\]](https://www.linkedin.com/in/fiona-wekulo-a34985214/)
-- GitHub: [\[Your GitHub Profile\]](http://github.com/FionaWekulo)
+- LinkedIn: [\[@fiona wekulo\]](https://www.linkedin.com/in/fiona-wekulo-a34985214/)
+- GitHub: [\[@FionaWekulo\]](http://github.com/FionaWekulo)
 
 Feel free to reach out for collaborations or opportunities!
